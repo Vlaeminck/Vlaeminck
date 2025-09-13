@@ -6,6 +6,8 @@
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Desarrollo Web](https://img.shields.io/badge/Desarrollo%20Web-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](#)
+
 
 # ¡Hola! Soy Tomás Vlaeminck 👋
 
