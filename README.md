@@ -1,6 +1,6 @@
 <!-- Badges de Conocimientos -->
 [![Power BI](https://img.shields.io/badge/Power%20BI-0078D4?style=flat&logo=powerbi&logoColor=white)](#)
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google-datastudio&logoColor=white)](#)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)](#)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](#)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=google-sheets&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
