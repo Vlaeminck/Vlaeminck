@@ -14,42 +14,51 @@
 
 # ¡Hola! Soy Tomás Vlaeminck 👋
 
-Soy estudiante de **Ciencias de Datos** apasionado por la tecnología y el desarrollo de soluciones. En este perfil comparto mis desarrollos y proyectos más recientes, y estoy en constante búsqueda de aprender y aplicar nuevas herramientas que impulsen mi crecimiento profesional.
+Soy **Data Analyst / BI en formación**, estudiante de **Ciencias de Datos**, con foco en transformar datos en información clara y accionable para la toma de decisiones.
 
-## Sobre mí
+Trabajo principalmente con **SQL, Python, Power BI y Looker Studio**, desarrollando dashboards, análisis exploratorios y soluciones orientadas a negocio. Me interesa aplicar el análisis de datos a problemas reales, priorizando claridad, impacto y mejora continua.
 
-- **Estudiante en Ciencias de Datos:** Enfocado en aprender y aplicar técnicas de análisis y modelado de datos.
-- **Apasionado por la Tecnología:** Me encanta explorar nuevas tecnologías y metodologías que potencien la innovación.
-- **Resolución de Problemas:** Disfruto creando soluciones prácticas y eficientes para desafíos del mundo real.
+---
 
-## Proyectos y Repositorios
+## 🧠 Sobre mí
 
-En mi GitHub encontrarás una variedad de proyectos que reflejan mi interés por el análisis de datos y la tecnología en general. Algunos ejemplos incluyen:
+- **Ciencias de Datos:** Formación orientada al análisis, modelado y visualización de datos.
+- **Análisis aplicado:** Experiencia en proyectos que combinan datos, lógica y visualización para resolver problemas concretos.
+- **Mentalidad práctica:** Busco soluciones simples, eficientes y escalables.
+- **Trabajo colaborativo:** Experiencia académica y práctica en metodologías ágiles (Scrum, Kanban, Lean).
 
-- **[Portafolio](#):** https://portfolio-tomasvlaeminck.netlify.app/
-- **[Lógica proposicional](#):** https://logicaproposicional.netlify.app/
-  
-- **Más Proyectos:** Estoy en constante desarrollo, ¡pronto más novedades!
+---
 
+## 📊 Proyectos destacados
 
-## Habilidades
+En mi GitHub encontrarás proyectos enfocados en análisis de datos, visualización y lógica aplicada, incluyendo:
 
-- **Lenguajes de Programación:** Python, Javascript
-- **Tecnologías Emergentes:** Herramientas de IA, como chatbots e inteligencias artificiales generativas
-- **Colaboración y Aprendizaje:** Abierto a trabajar en equipo y aprender de la comunidad.
-- **Trabajo en equipo:** Cursos y practicas en metodologias ágiles (Scrum, Kanban, Lean)
+- **Portafolio:** https://portfolio-tomasvlaeminck.netlify.app/  
+- **Lógica Proposicional:** https://logicaproposicional.netlify.app/
+- **Gestor de stock:** https://gestorstock--reconcileai-6af87.us-east4.hosted.app/
+- **Gestor de código de barras:** https://barcodebuddy--reconcileai-6af87.us-central1.hosted.app/ 
 
-## Contacto
+Actualmente continúo desarrollando nuevos proyectos orientados a BI y análisis de datos aplicados a contextos reales.
 
-- **Ubicación:** Argentina
-- **LinkedIn:** [in/tomasvlaeminck](https://www.linkedin.com/in/tomasvlaeminck)
-- **Correo:** *tomasvlaeminck.info@gmail.com*
+---
 
-Si querés colaborar o que trabajemos juntos, ¡no dudes en contactarme!
+## 🛠️ Habilidades técnicas
 
-## Objetivos
+- **Lenguajes:** Python, SQL, JavaScript  
+- **BI & Análisis:** Power BI, Looker Studio, Excel, Google Sheets  
+- **Tecnología:** Firebase, Desarrollo Web básico  
+- **Herramientas:** Git, Linux  
+- **Metodologías:** Scrum, Kanban, Lean  
 
-Mi meta es expandir mis conocimientos en Ciencia de Datos y tecnología, aplicándolos en proyectos reales. Estoy en búsqueda de oportunidades para colaborar en proyectos desafiantes y seguir aprendiendo de la comunidad. También me mantengo como un aprendiz de por vida, la curiosidad por crear y aprender siempre van a ser parte del camino
+---
 
+## 📬 Contacto
 
-¡Gracias por visitar mi perfil y espero que encuentres algo interesante en mi trabajo!
+- **Ubicación:** Argentina  
+- **LinkedIn:** https://www.linkedin.com/in/tomasvlaeminck  
+- **Correo:** tomasvlaeminck.info@gmail.com  
+
+Estoy abierto a oportunidades junior o trainee en **Data Analytics / BI**, así como a colaboraciones en proyectos orientados a datos.
+
+Gracias por visitar mi perfil.
+
