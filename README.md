@@ -31,14 +31,22 @@ Trabajo principalmente con **SQL, Python, Power BI y Looker Studio**, desarrolla
 
 ## 📊 Proyectos destacados
 
-En mi GitHub encontrarás proyectos enfocados en análisis de datos, visualización y lógica aplicada, incluyendo:
+En mi GitHub encontrarás proyectos enfocados en análisis de datos, visualización y resolución de problemas operativos reales, incluyendo:
 
-- **Portafolio:** https://portfolio-tomasvlaeminck.netlify.app/  
-- **Lógica Proposicional:** https://logicaproposicional.netlify.app/
-- **Gestor de stock:** https://gestorstock--reconcileai-6af87.us-east4.hosted.app/
-- **Gestor de código de barras:** https://barcodebuddy--reconcileai-6af87.us-central1.hosted.app/ 
+- **Gestor de Stock:**  
+  Sistema para la gestión de inventarios, control de productos y movimientos, orientado a mejorar la organización y el análisis del stock.  
+  https://gestorstock--reconcileai-6af87.us-east4.hosted.app/
 
-Actualmente continúo desarrollando nuevos proyectos orientados a BI y análisis de datos aplicados a contextos reales.
+- **Gestor de Código de Barras:**  
+  Herramienta para la identificación y trazabilidad de productos mediante códigos de barras, facilitando el control operativo y la carga de datos.  
+  https://barcodebuddy--reconcileai-6af87.us-central1.hosted.app/
+
+- **Portafolio:**  
+  https://portfolio-tomasvlaeminck.netlify.app/
+
+- **Lógica Proposicional:**  
+  https://logicaproposicional.netlify.app/
+
 
 ---
 
@@ -48,7 +56,7 @@ Actualmente continúo desarrollando nuevos proyectos orientados a BI y análisis
 - **BI & Análisis:** Power BI, Looker Studio, Excel, Google Sheets  
 - **Tecnología:** Firebase, Desarrollo Web básico  
 - **Herramientas:** Git, Linux  
-- **Metodologías:** Scrum, Kanban, Lean  
+- **Metodologías:** Scrum, Lean  
 
 ---
 
