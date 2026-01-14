@@ -1,12 +1,15 @@
 <!-- Badges de Conocimientos -->
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)](#)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftoffice&logoColor=white)](#)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=googlesheets&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Desarrollo Web](https://img.shields.io/badge/Desarrollo%20Web-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
+
 
 
 # ¡Hola! Soy Tomás Vlaeminck 👋
