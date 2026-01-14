@@ -25,7 +25,7 @@ Trabajo principalmente con **SQL, Python, Power BI y Looker Studio**, desarrolla
 - **Ciencias de Datos:** Formación orientada al análisis, modelado y visualización de datos.
 - **Análisis aplicado:** Experiencia en proyectos que combinan datos, lógica y visualización para resolver problemas concretos.
 - **Mentalidad práctica:** Busco soluciones simples, eficientes y escalables.
-- **Trabajo colaborativo:** Experiencia académica y práctica en metodologías ágiles (Scrum, Kanban, Lean).
+- **Trabajo colaborativo:** Experiencia académica y práctica en metodologías ágiles (Scrum, Lean).
 
 ---
 
